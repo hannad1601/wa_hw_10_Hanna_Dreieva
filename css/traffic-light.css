@@ -1,0 +1,16 @@
+.traffic-light-wrapper {
+  width: 100px;
+  height: 300px;
+  border: 1px #000 solid;
+  margin: auto;
+  background-color: #000;
+}
+
+.light {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  border: 1px #000 solid;
+  margin: 14px auto;
+  background-color: #FFF;
+}
